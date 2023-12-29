@@ -25,7 +25,7 @@ No installation is required for the Excursion landing page. Simply open the `ind
 
 ## Screenshots
 
-[![Excursion Landing Page](screenshot.png)](excursion/resources/images/screenshot.png)
+![screenshot](https://github.com/brantley-krystal/excursion/assets/138037643/fff9cc9c-73c9-419d-9da1-2e00e0cc187d)
 
 ## Contributing
 
