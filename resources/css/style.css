@@ -7,7 +7,7 @@ body {
 /* HEADINGS*/
 .header--main {
     font-weight: normal;
-    font-size: 50px;
+    font-size: 48px;
     color: white;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .header--sub-header {
-    font-size: 21px;
+    font-size: 16px;
     color: grey;
 
 }
